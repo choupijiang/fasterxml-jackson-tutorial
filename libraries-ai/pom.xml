@@ -26,7 +26,7 @@
     </dependencies>
 
     <properties>
-        <stanford-corenlp.version>4.5.3</stanford-corenlp.version>
+        <stanford-corenlp.version>4.5.5</stanford-corenlp.version>
         <opennlp-tools.version>2.1.1</opennlp-tools.version>
     </properties>
 
