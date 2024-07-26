@@ -61,7 +61,7 @@
 
     <properties>
         <aws.secrets.manager.config>2.4.4</aws.secrets.manager.config>
-        <aws.secrets.manager.jdbc>1.0.11</aws.secrets.manager.jdbc>
+        <aws.secrets.manager.jdbc>2.0.0</aws.secrets.manager.jdbc>
     </properties>
 
 </project>
