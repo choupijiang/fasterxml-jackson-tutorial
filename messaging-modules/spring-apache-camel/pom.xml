@@ -80,8 +80,8 @@
     </dependencies>
 
     <properties>
-        <env.camel.version>3.14.7</env.camel.version>
-        <env.spring.version>5.3.25</env.spring.version>
+        <env.camel.version>4.0.0</env.camel.version>
+        <env.spring.version>5.3.39</env.spring.version>
         <camel.version>3.15.0</camel.version>
     </properties>
 
