@@ -61,8 +61,8 @@
         <hibernate-validator.version>6.2.3.Final</hibernate-validator.version>
         <hibernate-validator.ap.version>6.2.0.Final</hibernate-validator.ap.version>
         <javax.el.version>3.0.0</javax.el.version>
-        <org.springframework.version>5.3.21</org.springframework.version>
-        <spring.boot.version>2.7.1</spring.boot.version>
+        <org.springframework.version>6.1.14</org.springframework.version>
+        <spring.boot.version>3.2.11</spring.boot.version>
     </properties>
 
 </project>
