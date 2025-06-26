@@ -15,7 +15,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     <properties>
-        <springboot2.aws.version>1.9.1</springboot2.aws.version>
+        <springboot2.aws.version>1.9.3</springboot2.aws.version>
     </properties>
 
     <dependencies>
