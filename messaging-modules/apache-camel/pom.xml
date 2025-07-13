@@ -40,7 +40,7 @@
     </dependencies>
 
     <properties>
-        <env.camel.version>3.14.7</env.camel.version>
+        <env.camel.version>4.0.0</env.camel.version>
     </properties>
 
 </project>
