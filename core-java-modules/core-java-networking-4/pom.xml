@@ -55,7 +55,7 @@
     </build>
 
     <properties>
-        <apache.commons-validator.version>1.7</apache.commons-validator.version>
+        <apache.commons-validator.version>1.10.0</apache.commons-validator.version>
         <jsoup.version>1.15.4</jsoup.version>
     </properties>
 
