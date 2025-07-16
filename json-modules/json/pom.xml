@@ -65,7 +65,7 @@
     </dependencies>
 
     <properties>
-        <networknt.json.schema.version>1.0.72</networknt.json.schema.version>
+        <networknt.json.schema.version>1.0.82</networknt.json.schema.version>
         <jsonb-api.version>1.0</jsonb-api.version>
         <yasson.version>1.0.1</yasson.version>
         <json.version>20230227</json.version>
