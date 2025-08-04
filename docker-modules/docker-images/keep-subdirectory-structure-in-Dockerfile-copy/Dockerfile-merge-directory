@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 COPY folder1/ /workdir/
 RUN ls --recursive /workdir/
 COPY folder2/ /workdir/
