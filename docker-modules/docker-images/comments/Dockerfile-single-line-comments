@@ -1,4 +1,4 @@
 # Declare parent image
-FROM ubuntu:latest
+FROM ubuntu:24.10
 # Print sentence
 RUN echo 'This is a Baeldung tutorial'
