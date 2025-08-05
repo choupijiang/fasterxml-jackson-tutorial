@@ -1,4 +1,4 @@
 # This file is a demonstration
 # For a Baeldung article
-FROM ubuntu:latest
+FROM ubuntu:24.10
 RUN echo 'This is a Baeldung tutorial'
