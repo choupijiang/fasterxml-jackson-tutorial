@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 RUN echo $PATH
 RUN export PATH="$PATH:/etc/profile"; echo $PATH
 RUN echo $PATH
