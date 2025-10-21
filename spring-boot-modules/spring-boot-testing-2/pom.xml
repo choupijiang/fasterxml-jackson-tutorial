@@ -107,7 +107,7 @@
 
     <properties>
         <start-class>com.baeldung.boot.Application</start-class>
-        <testcontainers.version>1.17.2</testcontainers.version>
+        <testcontainers.version>2.0.0</testcontainers.version>
         <testcontainers-keycloak.version>1.10.0</testcontainers-keycloak.version>
     </properties>
 
